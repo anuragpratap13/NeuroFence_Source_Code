@@ -98,3 +98,4 @@ class AdversarialFuzzer:
         )
         self._rng.shuffle(prompts)
         return prompts
+
